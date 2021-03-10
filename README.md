@@ -1,5 +1,10 @@
 # RGB EasyMix
 
+![GitHub](https://img.shields.io/github/license/appliberated/RGBEasyMix)
+[![Generic badge](https://img.shields.io/badge/Made%20with%20❤%20in-Oradea,%20Romania-007AC7.svg)](https://shields.io/)
+
+**Released in 1997. Written in Visual Basic 4.0 and Borland Delphi 3, on Windows 95.**
+
 RGB EasyMix is a small and easy-to-use, yet powerful RGB color editor. With RGB EasyMix you can easily make-up a RGB color by editing the amount of red, green and blue. You can copy the resulting RGB color to the clipboard in many different formats. The yellow color can be copied as:
 
 - a RGB macro: `RGB(255, 255, 0)`
@@ -12,8 +17,6 @@ RGB EasyMix is a small and easy-to-use, yet powerful RGB color editor. With RGB 
 
 You can also define custom colors that can be saved for future use.
 
-![GitHub](https://img.shields.io/github/license/appliberated/RGBEasyMix)
-[![Generic badge](https://img.shields.io/badge/Made%20with%20❤%20in-Oradea,%20Romania-007AC7.svg)](https://shields.io/)
 
 ## Screenshot
 
